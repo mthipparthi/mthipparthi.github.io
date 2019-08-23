@@ -73,6 +73,11 @@
   </url>
   
   <url>
+    <loc>https://example.com/my-first-post2/</loc>
+    <lastmod>2018-12-26T00:29:41-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/</loc>
     <lastmod>2019-08-23T16:13:14+10:00</lastmod>
   </url>

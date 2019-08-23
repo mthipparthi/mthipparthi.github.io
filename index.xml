@@ -65,6 +65,15 @@ This text will be bold</description>
     </item>
     
     <item>
+      <title>Quotes by my Meee</title>
+      <link>https://example.com/my-first-post2/</link>
+      <pubDate>Wed, 26 Dec 2018 00:29:41 -0600</pubDate>
+      
+      <guid>https://example.com/my-first-post2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Creating a New Theme</title>
       <link>https://example.com/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
